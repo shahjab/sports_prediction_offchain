@@ -19,13 +19,13 @@ Make sure all packages above are installed.
 
 ```bash
 $ pip3 install -r requirements.txt
-$ python main.py -team1 BOS -team2 DEN -xgb -season 23-24
+$ python main.py -home BOS -away DEN -xgb -season 23-24
 ```
 
 ## Arguments Description
 
-* team1 - First team name
-* team2 - Second team name
+* home - Home team name
+* away - Away team name
 * xgb - command to use xgb ML model
 * season: Match year. Write as type of YY-YY
 
