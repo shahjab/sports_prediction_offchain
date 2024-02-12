@@ -1,0 +1,28 @@
+Team, Season,
+G - Games
+W - Wins
+L - Losses
+W/L% - Win/Loss Percentage
+MP - Minutes played
+FG - Field Goals
+FGA - Field Goal Attempts
+2P - 2-Point Field Goals
+2PA - 2-Point Field Goal Attempts
+3P - 3-Point Field Goals
+3PA - 3-Point Field Goal Attempts
+FT - Free Throws
+FTA - Free Throw Attempts
+ORB - Offensive Rebounds
+DRB - Defensive Rebounds
+TRB - Total Rebounds
+AST - Assists
+STL - Steals
+BLK - Blocks
+TOV - Turnovers
+PF - Personal Fouls
+PTS - Points
+FG% - Field Goal Percentage
+2P% - 2-Point Goal Percentage
+FT% - Free Throw Percentage
+TS% - True Shooting Percentage
+eFG% - Effective Field Goal Percentage
