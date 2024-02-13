@@ -4,3 +4,5 @@ xgboost
 scikit-learn
 tqdm
 tensorflow
+matplotlib
+beautifulsoup4

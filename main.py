@@ -1,10 +1,19 @@
 import argparse
 from Predict import XGBoost_predict
+from Predict.NB_predict import Predictor
+from Predict.Score_Pred.model import NBAModel
 
 def main():
     if args.xgb:
         # if args.lastdata:
             XGBoost_predict.predictor(args.season, args.home, args.away)
+    elif args.nb:
+        print("     Selected Naive Base Model\n")
+        Predictor(args.season, args.home, args.away)
+    elif args.score:
+        print("\n\n                          ===========     Predicting Score     ===========\n\n")
+        model = NBAModel(update=False)
+        model.get_scores(args.home, args.away)
 
 
 
@@ -12,6 +21,8 @@ def main():
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Model to Run')
     parser.add_argument('-xgb', action='store_true', help='Run with XGBoost Model')
+    parser.add_argument('-nb', action='store_true', help='Run with XGBoost Model')
+    parser.add_argument('-score', action='store_true', help='Run with XGBoost Model')
     parser.add_argument('-lastdata', action='store_true', help='Run with Last Data')
     parser.add_argument('-from', help='Beginning year')
     parser.add_argument('-to', help='Ending year')

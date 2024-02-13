@@ -13,6 +13,23 @@ Use Python 3.11. In particular the packages/libraries used are...
 * Tqdm - Progress bars
 * Scikit_learn - Machine learning library
 
+## Project Requirements Installation Guide
+* Install Virtual Environment
+```bash
+$ python -m venv venv
+```
+    
+* Activate Virtual Environment
+```bash
+$ cd venv/scripts
+$ activate
+```
+       
+* Install required python packages
+```bash
+$ pip install -r requirements.txt
+```
+
 ## Usage
 
 Make sure all packages above are installed.
@@ -26,7 +43,9 @@ $ python main.py -home BOS -away DEN -xgb -season 23-24
 
 * home - Home team name
 * away - Away team name
-* xgb - command to use xgb ML model
+* xgb - command to use XGBoost ML model
+* nb - command to use Naive Base ML model
+* score - command to predict expected output
 * season: Match year. Write as type of YY-YY
 
 ## Expected Output
