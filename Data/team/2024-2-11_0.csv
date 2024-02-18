@@ -1,0 +1,3 @@
+,team,outcome,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,points
+0,Team.BOSTON_CELTICS,Outcome.WIN,240,41,81,16,39,12,17,6,36,27,1,9,9,13,110
+0,Team.MIAMI_HEAT,Outcome.LOSS,240,40,97,12,40,14,15,14,31,21,4,2,7,14,106

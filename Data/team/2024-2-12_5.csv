@@ -1,0 +1,3 @@
+,team,outcome,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,points
+0,Team.MINNESOTA_TIMBERWOLVES,Outcome.WIN,240,46,86,11,34,18,19,9,32,33,9,7,11,20,121
+0,Team.LOS_ANGELES_CLIPPERS,Outcome.LOSS,240,34,84,9,28,23,26,10,26,20,6,3,13,14,100

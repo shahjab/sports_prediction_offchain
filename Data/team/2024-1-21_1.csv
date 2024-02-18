@@ -1,0 +1,3 @@
+,team,outcome,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,points
+0,Team.BROOKLYN_NETS,Outcome.LOSS,240,44,90,14,39,12,16,6,30,29,6,5,12,21,114
+0,Team.LOS_ANGELES_CLIPPERS,Outcome.WIN,240,42,83,13,26,28,33,8,37,26,6,5,10,18,125

@@ -1,0 +1,3 @@
+,team,outcome,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,points
+0,Team.INDIANA_PACERS,Outcome.LOSS,240,42,93,13,33,8,13,9,35,21,9,9,13,25,105
+0,Team.NEW_YORK_KNICKS,Outcome.WIN,240,41,103,8,38,19,25,24,36,15,8,7,10,14,109

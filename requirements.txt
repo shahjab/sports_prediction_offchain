@@ -6,3 +6,4 @@ tqdm
 tensorflow
 matplotlib
 beautifulsoup4
+basketball_reference_web_scraper

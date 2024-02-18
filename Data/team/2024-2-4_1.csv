@@ -1,0 +1,3 @@
+,team,outcome,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,points
+0,Team.INDIANA_PACERS,Outcome.WIN,240,45,92,11,33,14,18,11,38,34,5,4,11,15,115
+0,Team.CHARLOTTE_HORNETS,Outcome.LOSS,240,35,88,8,29,21,25,11,32,18,6,5,10,16,99

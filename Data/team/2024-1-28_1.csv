@@ -1,0 +1,3 @@
+,team,outcome,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,points
+0,Team.OKLAHOMA_CITY_THUNDER,Outcome.LOSS,240,44,92,8,28,8,12,11,32,17,7,5,10,18,104
+0,Team.DETROIT_PISTONS,Outcome.WIN,240,47,95,11,26,15,19,15,38,27,6,2,9,11,120

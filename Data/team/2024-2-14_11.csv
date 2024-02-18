@@ -1,0 +1,3 @@
+,team,outcome,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,points
+0,Team.INDIANA_PACERS,Outcome.WIN,240,47,97,17,41,16,23,9,30,32,9,9,8,20,127
+0,Team.TORONTO_RAPTORS,Outcome.LOSS,240,50,98,6,26,19,26,15,41,30,6,7,15,20,125

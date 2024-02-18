@@ -1,0 +1,3 @@
+,team,outcome,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,points
+0,Team.BROOKLYN_NETS,Outcome.LOSS,240,31,81,10,31,14,15,6,25,27,5,1,11,12,86
+0,Team.BOSTON_CELTICS,Outcome.WIN,240,52,91,22,45,10,12,10,41,32,6,5,8,13,136

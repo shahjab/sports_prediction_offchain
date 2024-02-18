@@ -1,6 +1,6 @@
 library('softImpute')
 
-df.pace = read.csv('pace.csv')
+df.pace = read.csv('paco.csv')
 df.OR = read.csv('OR.csv')
 
 df.pace[df.pace == 0] <- NA

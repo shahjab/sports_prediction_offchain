@@ -1,0 +1,3 @@
+,team,outcome,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,points
+0,Team.NEW_YORK_KNICKS,Outcome.LOSS,240,35,84,11,29,19,24,16,18,15,8,0,10,11,100
+0,Team.ORLANDO_MAGIC,Outcome.WIN,240,48,76,12,26,10,11,7,27,25,7,7,12,22,118

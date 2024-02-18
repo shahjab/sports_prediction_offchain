@@ -1,0 +1,3 @@
+,team,outcome,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,points
+0,Team.DALLAS_MAVERICKS,Outcome.WIN,240,43,82,18,42,18,23,6,34,30,7,6,8,13,122
+0,Team.NEW_YORK_KNICKS,Outcome.LOSS,240,42,94,14,37,10,11,14,32,27,5,2,14,19,108
