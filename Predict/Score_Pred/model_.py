@@ -111,8 +111,8 @@ class NBAModel:
         df_OR.replace(0, np.nan, inplace=True)
 
         # Extract relevant columns and convert to numeric matrices
-        df_pace = df_pace.iloc[:, 1:30].values.astype(float)
-        df_OR = df_OR.iloc[:, 1:30].values.astype(float)
+        df_pace = df_pace.iloc[:, 1:31].values.astype(float)
+        df_OR = df_OR.iloc[:, 1:31].values.astype(float)
 
         # Impute missing values using softImpute
         fits_pace = SoftImpute(max_iters=100, max_rank=10).fit_transform(df_pace)
@@ -124,7 +124,7 @@ class NBAModel:
         # Create DataFrames with original column and row names
         # predictions_df = pd.DataFrame(predictions, columns=df_pace[0, :], index=df_pace[:, 0])
         df_original = pd.read_csv('Predict/Score_Pred/predictions.csv', index_col=0)  # Assuming the first column is the index
-        df_original.iloc[:, 1:] = predictions
+        df_original.iloc[:, 0:] = predictions
 
         # Save the predictions to a CSV file
         # predictions_df.to_csv('predictions.csv', index=False)
